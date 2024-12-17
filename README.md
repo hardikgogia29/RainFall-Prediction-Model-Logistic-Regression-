@@ -1,1 +1,1 @@
-# RainFall-Prediction-Model-Logistic-Regression-
+# RainFall Prediction Model Logistic Regression
